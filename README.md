@@ -29,4 +29,6 @@ Run php artisan serve
 
 ## Screenshot
 
-<img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-32-53.png" width="15%"></img> <img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-33-16.png" width="15%"></img> <img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-33-39.png" width="15%"></img> <img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-34-38.png" width="15%"></img> <img 
+<img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-32-53.png"></img> <img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-33-16.png"></img> 
+<img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-33-39.png"></img> 
+<img src="https://github.com/titoyudha/car_rent_app/blob/main/screenshot/Screenshot%20from%202024-06-03%2011-34-38.png"></img>
